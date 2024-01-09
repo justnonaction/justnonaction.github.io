@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2024/01/08/%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://justnonaction.github.io/posts/e61d7655.html</loc>
     
     <lastmod>2024-01-08</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2024/01/08/%E8%99%9E%E7%BE%8E%E4%BA%BA%C2%B7%E5%90%AC%E9%9B%A8/</loc>
+    <loc>https://justnonaction.github.io/posts/aa5b1287.html</loc>
     
     <lastmod>2024-01-08</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2024/01/08/%E4%BB%A5%E6%96%B0%E5%BA%94%E7%94%A8%E6%89%93%E5%BC%80%E6%AD%A4xxx%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://justnonaction.github.io/posts/639cac1b.html</loc>
     
     <lastmod>2024-01-08</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://justnonaction.github.io/categories/index.html</loc>
     
     <lastmod>2024-01-08</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://justnonaction.github.io/tags/index.html</loc>
     
     <lastmod>2024-01-08</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://justnonaction.github.io/about/index.html</loc>
     
     <lastmod>2024-01-06</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://justnonaction.github.io/</loc>
     <lastmod>2024-01-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,28 +65,28 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://justnonaction.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://justnonaction.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2024-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E6%96%87%E5%AD%A6/</loc>
+    <loc>https://justnonaction.github.io/tags/%E6%96%87%E5%AD%A6/</loc>
     <lastmod>2024-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E8%AF%97%E8%AF%8D/</loc>
+    <loc>https://justnonaction.github.io/tags/%E8%AF%97%E8%AF%8D/</loc>
     <lastmod>2024-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -95,21 +95,21 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://justnonaction.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E8%AF%97%E8%AF%8D/</loc>
+    <loc>https://justnonaction.github.io/categories/%E8%AF%97%E8%AF%8D/</loc>
     <lastmod>2024-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E7%94%9F%E6%B4%BB/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://justnonaction.github.io/categories/%E7%94%9F%E6%B4%BB/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2024-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
